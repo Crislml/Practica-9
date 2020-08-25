@@ -105,7 +105,7 @@ Ecuación para determinar el voltaje o período a partir del número de division
 
 ## *DIAGRAMA*
 
-![alt text](https://github.com/Crislml/Practica-7/blob/master/Imagenes/Circuito_osciloscopio.png)
+![alt text]()
 
 Figura 6. Circuito implementado con osciloscopio.
 
