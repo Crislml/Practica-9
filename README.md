@@ -56,7 +56,7 @@ En paralelo
 
 1. Construya en el protoboard el circuito mostrado en la Figura 1.
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Circuito%20con%20capacitores.png)
 
 Figura 1.  Calculos de distintos parámetros eléctricos.
 
@@ -72,7 +72,7 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 2. Construya el circuito mostrado en la Figura 2
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Circuito%20con%20inductores.png)
 
 Figura 2.  Calculos de distintos parámetros eléctricos.
 
@@ -108,7 +108,7 @@ Ecuación para determinar el voltaje o período a partir del número de division
 
 ## *DIAGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Cronograma/Cronograma%20de%20actividades.png)
 
 Figura 6. Circuito implementado con osciloscopio.
 
