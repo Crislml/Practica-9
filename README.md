@@ -108,7 +108,7 @@ Ecuación para determinar el voltaje o período a partir del número de division
 
 ## *DIAGRAMA*
 
-![alt text](https://github.com/Crislml/Practica-9/blob/master/Cronograma/Cronograma%20de%20actividades.png)
+![alt text]()
 
 Figura 6. Circuito implementado con osciloscopio.
 
@@ -177,7 +177,7 @@ Error relativo = 0.87 %
 
 ## *CRONOGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Cronograma/Cronograma%20de%20actividades.png)
 
 ## *BIBLIOGRAFÍA*
 
