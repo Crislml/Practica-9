@@ -169,9 +169,13 @@ Ecuación para determinar el voltaje o período a partir del número de division
 
 ## *DIAGRAMA*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/1.jpeg)
 
-Figura 6. Circuito implementado con osciloscopio.
+Figura 6. Circuito implementado con capacitores.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/2.jpeg)
+
+Figura 7. Circuito implementado con Inductores .
 
  **EXPLICACIÓN DEL CIRCUITO**
 
@@ -295,4 +299,20 @@ Figura 7.  Calculo errores.
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/calculos2.png)
 
 Figura 7.  Calculo reactancia.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/CCapacitor%201.jpeg)
+
+Figura 7.  Medición Voltaje en el Capacitor.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Ccapacitor2.jpeg)
+
+Figura 7.  Medición Corriente en el Capacitor.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Cinductor1.jpeg)
+
+Figura 7.  Medición Voltaje en el Inductor.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Cinductor2.jpeg)
+
+Figura 7.  Medición Corriente en el Inductor.
 
