@@ -287,6 +287,12 @@ Lifeder, Onda senoidal. Recuperado de: https://www.lifeder.com/onda-senoidal/
 
 ## *ANEXOS*
 
-![alt text]()
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Calculos1.png)
 
-Figura 7.  Calculos de distintos parámetros eléctricos.
+Figura 7.  Calculo errores.
+
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/calculos2.png)
+
+Figura 7.  Calculo reactancia.
+
