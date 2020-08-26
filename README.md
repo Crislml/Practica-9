@@ -193,8 +193,8 @@ Error relativo = |(Valor teórico - Valor experimental)/ Valor teórico | x 100%
 
 | Frecuencia (Hz) | Voltaje pico (V) | Vo osciloscopio (V) | Vo multímetro (V) | % Error |
 |:---------------:|------------------|---------------------|-------------------|---------|
-| 0               | 9.98             | 7.0569              | 7.112             | 2.27    |
-| 10              | 9.42             | 6.66                | 6.71              | 2.25    |
+| 0               | 9.98             | 7.0569              | 7.112             | 0.75    |
+| 10              | 9.42             | 6.66                | 6.71              | 0.74    |
 | 50              | 8.44             | 5.968               | 6.081             | 1.86    |
 | 100             | 6.2              | 4.3841              | 4.551             | 3.67    |
 | 500             | 1.56             | 1.1031              | 1.168             | 5.56    |
@@ -231,35 +231,42 @@ Tabla 5. Reactancia inductores e inductancia equivalente.
 
 1. Justifique los errores cometidos en las mediciones.
 
-
+El principal error se debe a los instrumentos de medición utilizados, en este caso el multímetro nos dará un valor mucho más preciso, mientras que en el osciloscopio es mucho más probable que haya un error de lectura ya que debemos tomar en uenta la escala utilizada y la cantidad de cuadros en el caso de la medición del voltaje. 
 
 2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-
+En el caso de de la bobina, su comportamiento dentro del circuito es como el de un cortocircuito, donde fluirá la corriente normalmente. Mientras que para el caso del capacitor cuando la frecuencia es igual a 0 Hz se observa que existe un comportamiento de circuito abierto, por lo que no habrá flujo de corriente por el componente.
 
 3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-
+La bobina en corriente alterna se comporta algo similar a la resistencia, ya que se opone al flujo de la corriente, su principal diferencia es que este valor de oposición se conoce como reactancia inductiva, la cual hemos calcula con la ley de ohm, donde X = V/I. En el capacitor se obtiene un comportamiento diferente, ya que el voltaje que se obtiene entre los terminales nos muestra que este voltaje está desfasado o adelantado 90 grados, esto ocurre principalmente porque el capacitor se opone a cambios bruscos que ocurren entres sus terminales.
 
 4. ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
+Se observaría una variación tanto el el voltaje como en la corriente, ya que reactancia del capacitor o inductor equivalente cambiará.
 
+Como ya sabemos que por la ley de ohm X=V/I, podemos decir que el voltaje cambiará de manera proporcional a la reactancia y la corriente cambiará de forma inversamente proporcional a la reactancia.
 
 
 5. ¿Qué son los valores eficaces de voltaje y corriente?
-
-
+ 
+Los valores eficaces corresponden a  los valores RMS, Raíz Media Cuadrática, que representan un valor equivalente, ya sea de voltaje o de corriente, que producirá el mismo efecto de disipación de calor en corriente directa. En nuestro circuito hemos obtenido el voltaje pico con ayuda del osciloscopio, para convertirlo en un valor rms tendremos que dividirlo para la raíz de dos, en el caso del multímetro no hay problema alguno debido a que este ya nos da el valor rms directamente.
 
 
 
 ## *CONCLUSIONES*
 
+- Se ha comprendido el comportamiento de las bobinas y capacitores en corriente directa, donde se determinó que en un capacitor el comportamiento es parecido al de un circuito abierto, mientras que para la bobina el comportamiento se asemeja al de un cortocirctuio. Además fue posible evidenciar otros comportamiento de estos componentes cuando es usada la corriente alterna.
 
+- Se determinó distintos valores de reactancia dependiendo de el componente usado y se comprendió como se calcula la capacitancia equivalente en un circuito en serie y paralelo. Para los capacitores en paralelo se suman las capacitancias mientras que para las bobinas, el recíproco de la inductancia equivalente será la suma algebraica de los rec;iprocos de las inductancias individuales.
+
+- Se han determinado distinto errores entre entre los voltajes, ya que existe un error de lectura frente al osciloscopio, además de que el coltaje rms calculado es una medida indirecta, mientras que el multímetro nos da un valor rms mejor aproximado.
 
 ## *RECOMENDACIONES*
-1. Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente entender perfectamente como es una onda senoidal.
+
+1. Para realizar una práctica exitosa se debe tener conocimiento previo adquirido, principalmente entender perfectamente como funciona la corriente alterna y directa.
 
 2. En el momento de obtener los datos sobre los voltajes, no hay que confundir el  voltaje rms con el voltaje Pico.
 
