@@ -19,8 +19,11 @@
 | Cantidad | Material de Equipo |
 | ------------- | ------------- |
 | 1  | Generador de Funciones |
+| 1  | Fuente DC |
 |  1 | Osciloscopio  |
+| 1  | Protoboard |
 | 1  | Multímetro digital |
+| 1  | Cables conductores |
 |  1 | Resistor de 100 Ω |
 |   2 | Capacitores de 10 µF |
 |  2  | Inductores de 10m mH |
