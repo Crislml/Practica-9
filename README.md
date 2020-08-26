@@ -180,6 +180,43 @@ Al momento de implementar nuestra fuente, debemos tener en cuenta y fijarnos que
 
 Para tomar las respectivas mediciones, deberemos utilizar nuestro osciloscopio ya que estamos trabajando con señal alterna. Al momento de conectar el osciloscopio, vemos perillas que indican cuantos voltios equivalen por cada cuadro que está presente en nuestro gráfico, que serán 3 cuadros por cada voltio, en donde vemos que, la amplitud de nuestro circuito será de 4.6, ya que se toma en cuenta dos veces el 2.3 que tenemos en nuestra primera cresta. Con ello podemos calcular nuestro Voltaje pico, y a partir de este procederemos a calcular el Voltaje RMS, que será el voltaje pico dividido para la raíz de 2.
 
+## *ANÁLISIS DE RESULTADOS*
+**Comparación de voltajes**
+
+En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en los capacitores e inductores. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
+
+Para el calculo del voltaje Vo se ha realizado la división del voltaje pico para raíz de dos para encontrar el voltaje rms y compararlo con el valor del multímetro.
+
+Error relativo = |(Valor teórico - Valor experimental)/ Valor teórico | x 100%
+
+
+
+| Frecuencia (Hz) | Voltaje pico (V) | Vo osciloscopio (V) | Vo multímetro (V) | % Error |
+|:---------------:|------------------|---------------------|-------------------|---------|
+| 0               | 9.98             | 7.0569              | 7.112             | 2.27    |
+| 10              | 9.42             | 6.66                | 6.71              | 2.25    |
+| 50              | 8.44             | 5.968               | 6.081             | 1.86    |
+| 100             | 6.2              | 4.3841              | 4.551             | 3.67    |
+| 500             | 1.56             | 1.1031              | 1.168             | 5.56    |
+| 1000            | 0.796            | 0.5628              | 0.587             | 4.12    |
+
+Tabla 2. Comparación de voltajes en circuito con capacitores.
+
+
+| Frecuencia (Hz) | Voltaje pico (V) | Vo osciloscopio (V) | Vo multímetro (V) | % Error |
+|:---------------:|------------------|---------------------|-------------------|---------|
+| 0               | 0.309            | 0.2185              | 0.221             | 1.13    |
+| 10              | 0.314            | 0.222               | 0.225             | 1.13    |
+| 50              | 1.56             | 1.1031              | 1.103             | 0.009   |
+| 100             | 2.97             | 2.1001              | 2.094             | 0.29    |
+| 500             | 8.33             | 5.8902              | 5.828             | 1.07    |
+| 1000            | 9.48             | 6.7034              | 6.606             | 1.47    |
+
+
+Tabla 3. Comparación de voltajes en circuito con inductores.
+
+
+
 ## *PREGUNTAS*
 
 1. Justifique los errores cometidos en las mediciones.
@@ -204,20 +241,6 @@ distintos?
 5. ¿Qué son los valores eficaces de voltaje y corriente?
 
 
-
-
-## *ANÁLISIS DE RESULTADOS*
-En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ha realizado el cálculo del error relativo del voltaje obtenido del osciloscopio con respecto al valor resultante de la medición del multímetro de voltaje en la resistencia RL. En nuestro caso consideraremos el resultado del multímetro como el valor teórico.
-
-| V. osciloscopio | V. multímetro |
-| ------------- | ------------- |
-|4.8225  V | 4.865 V  |
-
-Error relativo = |(Valor teórico - Valor experimental)/ Valor teórico | x 100%
-
-Error relativo = |(4.865 - 4.8225)/ 4.865 | x 100%
-
-Error relativo = 0.87 %
 
 
 
