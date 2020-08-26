@@ -119,7 +119,7 @@ La inductancia es la propiedad de un circuito eléctrico para resistir el cambio
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Circuito%20con%20capacitores.png)
 
-Figura 1.  Calculos de distintos parámetros eléctricos.
+Figura 5.  Calculos de distintos parámetros eléctricos.
 
 a. Utilice el osciloscopio para observar el voltaje 𝑉𝑜 variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los valores pico de las ondas observadas.
@@ -135,7 +135,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Circuito%20con%20inductores.png)
 
-Figura 2.  Calculos de distintos parámetros eléctricos.
+Figura 6.  Calculos de distintos parámetros eléctricos.
 
 ## *Ecuaciones*
 
@@ -171,11 +171,11 @@ Ecuación para determinar el voltaje o período a partir del número de division
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/1.jpeg)
 
-Figura 6. Circuito implementado con capacitores.
+Figura 7. Circuito implementado con capacitores.
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/2.jpeg)
 
-Figura 7. Circuito implementado con Inductores .
+Figura 8. Circuito implementado con Inductores .
 
  **EXPLICACIÓN DEL CIRCUITO**
 
@@ -293,26 +293,26 @@ Lifeder, Onda senoidal. Recuperado de: https://www.lifeder.com/onda-senoidal/
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Calculos1.png)
 
-Figura 7.  Calculo errores.
+Figura 9.  Calculo errores.
 
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/calculos2.png)
 
-Figura 7.  Calculo reactancia.
+Figura 10.  Calculo reactancia.
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/CCapacitor%201.jpeg)
 
-Figura 7.  Medición Voltaje en el Capacitor.
+Figura 11.  Medición Voltaje en el Capacitor.
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Ccapacitor2.jpeg)
 
-Figura 7.  Medición Corriente en el Capacitor.
+Figura 12.  Medición Corriente en el Capacitor.
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Cinductor1.jpeg)
 
-Figura 7.  Medición Voltaje en el Inductor.
+Figura 13.  Medición Voltaje en el Inductor.
 
 ![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Cinductor2.jpeg)
 
-Figura 7.  Medición Corriente en el Inductor.
+Figura 14.  Medición Corriente en el Inductor.
 
