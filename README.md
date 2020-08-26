@@ -215,6 +215,7 @@ Tabla 2. Comparación de voltajes en circuito con capacitores.
 
 Tabla 3. Comparación de voltajes en circuito con inductores.
 
+**Cálculo de reactancia e inductancia**
 
 
 ## *PREGUNTAS*
