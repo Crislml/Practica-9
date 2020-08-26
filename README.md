@@ -175,11 +175,10 @@ Figura 6. Circuito implementado con osciloscopio.
 
  **EXPLICACIÓN DEL CIRCUITO**
 
-Nuestro circuito consta de una fuente alterna, que será nuestro generador de funciones, dos resistencias, una de 1000 ohmios, y la segunda que será nuestra resistencia L, que será de 2200 ohmios. Al tener una fuente de voltaje alterno, tendremos como resultado una función sinusoidal, es decir que la gráfica de dicho voltaje describirá la función seno.
+En el caso de nuestro circuito RC, tenemos dos capacitores en paralelo, los cuales estarán conectados en serie con una resistencia, y esta con una fuente de voltaje alterno. En nuestra fuente tendremos una frecuencia variable, al tener nosotros una frecuencia de 0, tendremos en teoría una fuente DC, por lo cual en los capacitores se producirá un cortocircuito y no abra flujo de corriente. En los otros valores de frecuencia, tendremos determinados valores de corriente en nuestra resistencia, y diferencia de tensión en nuestros capacitores que nos permitirán responder nuestras preguntas y sacar nuestras conclusiones.
 
-Al momento de implementar nuestra fuente, debemos tener en cuenta y fijarnos que la fuente este puesta en voltaje pico a pico, ya que este ese el valor que nos dan como dato, que es de 20 voltios. 
 
-Para tomar las respectivas mediciones, deberemos utilizar nuestro osciloscopio ya que estamos trabajando con señal alterna. Al momento de conectar el osciloscopio, vemos perillas que indican cuantos voltios equivalen por cada cuadro que está presente en nuestro gráfico, que serán 3 cuadros por cada voltio, en donde vemos que, la amplitud de nuestro circuito será de 4.6, ya que se toma en cuenta dos veces el 2.3 que tenemos en nuestra primera cresta. Con ello podemos calcular nuestro Voltaje pico, y a partir de este procederemos a calcular el Voltaje RMS, que será el voltaje pico dividido para la raíz de 2.
+En cambio, en el circuito RL, tenemos dos inductores en paralelo, los cuales están en serie con nuestra resistencia, la cual está alimentada de una fuente de voltaje alterna con frecuencia variable. En el caso de que la frecuencia vale 0, tendremos, teóricamente una fuente DC, por lo cual el inductor actuará como cable, y tendremos un flujo de corriente máximo. Con los otros valores de la frecuencia, podremos calcular nuestros respectivos datos, que la igual que en nuestro capacitor, nos permitirá responder nuestras preguntas y sacar las debidas conclusiones.
 
 ## *ANÁLISIS DE RESULTADOS*
 **Comparación de voltajes**
