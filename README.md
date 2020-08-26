@@ -31,7 +31,7 @@
 Tabla 1. Materiales
 ## *MARCO TEÓRICO*
 
-**CORRIENTE DIRECTA Y ALTERNA**
+Los inductores y capacitores son elementos que sirven para almacenar energía, donde para entender un poco sobre estos elementos hay que tomar en cuenta la diferencia que hay entre estas dos, por ejemplo los inductores guardan energía en forma de campo magnético pero los capacitores guardan la energía en forma de campo eléctrico.
 
 **INDUCTORES**
 
