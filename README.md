@@ -215,7 +215,16 @@ Tabla 2. Comparación de voltajes en circuito con capacitores.
 
 Tabla 3. Comparación de voltajes en circuito con inductores.
 
-**Cálculo de reactancia e inductancia**
+**Cálculo de reactancia**
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Tabla%20capacitancia.png)
+
+Tabla 4. Reactancia en capacitores y capacitancia equivalente.
+
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Tabla%20inductancia.png)
+
+Tabla 5. Reactancia inductores e inductancia equivalente.
 
 
 ## *PREGUNTAS*
