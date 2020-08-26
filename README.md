@@ -35,21 +35,81 @@ Tabla 1. Materiales
 
 **INDUCTORES**
 
+Los inductores son elementos pasivos como las resistencias y capacitores pero, que tienen la característica de almacenamiento de energía en forma de campo magnético. Tambien es una bobina de alambre que tiende a mantener su campo magnético.
+
 En serie
 
+Este va actuar de una manera similar, al de las resistencias ya conocidas.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/inductores%20en%20serie.png)
+
+Fig 1. Inductores en serie.
+
+Para Calcular Leq, este sera la sumatoria de todos los elementos en serie.
+
+Leq=L1+L2+L3+...+ln
+
+
 En paralelo
+
+Este, de igual forma, actuará de manera similiar al de las resistencias ya conocidas.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/inductores%20en%20paralelo.png)
+
+Fig 2. Inductores en paralelo.
+
+Para calcular Leq, seguirá siendo una sumatoria pero no igual a las que estan en serie.
+
+1/leq=1/L1 +1/L2 +...+1/ln
 
 **CAPACITORES**
 
+Un capacitor es un elemento pasivo diseñado para almacenar energía en su campo eléctrico. Junto con los resistores, los componentes eléctricos más comunes son los capacitores, los cuales son de amplio uso en electrónica.
+
 En serie
+
+Aquí, estos capacitores en serie, no actuaran de manera similar, sino de manera inversa al de las resistencias conocidas.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Capacitores%20en%20serie.png)
+
+Fig 3. Capacitores en serie.
+
+Para calcular Ceq, aplicamos la siguiente formula:
+
+1/Ceq=1/C1 +1/C2 +...+1/Cn
 
 En paralelo
 
+En paralelo, los capacitores como actúan de manera inversa a los resistores, es la sumatoria de todas.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Capacitores%20en%20paralelo.png)
+
+Fig 4. Capacitores en paralelo.
+
+Para calcular Ceq, aplicamos la siguiente formula:
+
+Ceq=C1+C2+...+Cn
+
 **REACTANCIA**
+
+Reactancia inductiva.
+
+La reactancia inductiva (XL) es la capacidad que tiene un inductor para reducir la corriente en un circuito de corriente alterna y su modelo matemático es :
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/Reactancia%20inductiva.png)
+
+Reactancia capacitiva.
+
+La reactancia capacitiva (XC) es la propiedad que tiene un capacitor para reducir la corriente en un circuito de corriente alterna y su modelo matemático es :
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/reactancia%20capacitiva.png)
+
 
 **INDUCTANCIA**
 
-**USO DEL OSCILOSCOPIO**
+La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Una corriente que fluye a través de un cable tiene un campo magnético alrededor.
+
+![alt text](https://github.com/Crislml/Practica-9/blob/master/Img/inductancia.png)
 
 
 ## *PROCEDIMIENTO*
