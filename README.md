@@ -2,6 +2,7 @@
 # *INDUCTOR Y CAPACITOR*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
+Ya al haber trabajado en el funcionamiento de una onda senoidal, podemos analizar dos elementos muy importantes en el estudio de circuitos eléctricos, como lo son los capacitores y los inductores, donde veremos para que sirve cada uno de ellos y porque debe funcionar con una fuente alterna, y de qué forma trabaja con una fuente continua. Vamos a realizar los debidos cálculos, con variación en la frecuencia de la fuente, tanto de voltaje, como de corriente, y a ver su respectivo error, al comparar los cálculos de nuestro osciloscopio, con los cálculos del multímetro en corriente alterna.
 
 ## *OBJETIVOS*
 # Objetivo general
